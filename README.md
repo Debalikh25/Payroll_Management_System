@@ -2,7 +2,7 @@
  
  This project was developed to add the details of 
 employees working for an organisation. The web app has 
-a simple UI and can be managed by an administrator 
+a simple UI that can be managed by an administrator 
 without having any problems. The admin can add , 
 remove and delete employees from the application.
 He/She can also observe the total number of employees 
